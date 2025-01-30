@@ -1,1 +1,1 @@
-# basic-navigation-example
+A basic navigation example
